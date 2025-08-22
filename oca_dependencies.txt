@@ -1,6 +1,6 @@
-queue https://github.com/OCA/queue.git
-web https://github.com/OCA/web.git
-access-addons https://github.com/itpp-labs/access-addons.git
-server-auth https://github.com/OCA/server-auth.git
-contract https://github.com/OCA/contract.git
-server-env https://github.com/OCA/server-env.git
+queue https://github.com/OCA/queue.git 17.0
+web https://github.com/OCA/web.git 17.0
+access-addons https://github.com/itpp-labs/access-addons.git 17.0
+server-auth https://github.com/OCA/server-auth.git 17.0
+contract https://github.com/OCA/contract.git 17.0
+server-env https://github.com/OCA/server-env.git 17.0

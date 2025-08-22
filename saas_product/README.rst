@@ -1,4 +1,7 @@
 .. image:: https://img.shields.io/badge/license-MIT-blue.svg
+
+**Migration Note**: This module is now compatible with Odoo 17.0. For upgrade guidance, see MIGRATION.md.
+
    :target: https://opensource.org/licenses/MIT
    :alt: License: MIT
 
@@ -51,7 +54,7 @@ Maintainers
 
       To get a guaranteed support
       you are kindly requested to purchase the module
-      at `odoo apps store <https://apps.odoo.com/apps/modules/14.0/saas_product/>`__.
+      at `odoo apps store <https://apps.odoo.com/apps/modules/17.0/saas_product/>`__.
 
       Thank you for understanding!
 
@@ -60,14 +63,14 @@ Maintainers
 Further information
 ===================
 
-Demo: http://runbot.it-projects.info/demo/saas-addons/14.0
+Demo: http://runbot.it-projects.info/demo/saas-addons/17.0
 
-HTML Description: https://apps.odoo.com/apps/modules/14.0/saas_product/
+HTML Description: https://apps.odoo.com/apps/modules/17.0/saas_product/
 
 Usage instructions: `<doc/index.rst>`_
 
 Changelog: `<doc/changelog.rst>`_
 
-Notifications on updates: `via Atom <https://github.com/it-projects-llc/saas-addons/commits/14.0/saas_product.atom>`_, `by Email <https://blogtrottr.com/?subscribe=https://github.com/it-projects-llc/saas-addons/commits/14.0/saas_product.atom>`_
+Notifications on updates: `via Atom <https://github.com/it-projects-llc/saas-addons/commits/17.0/saas_product.atom>`_, `by Email <https://blogtrottr.com/?subscribe=https://github.com/it-projects-llc/saas-addons/commits/17.0/saas_product.atom>`_
 
-Tested on Odoo 14.0 9e68ec931d254ba563b4a16afa38b6003336a7cf
+Tested on Odoo 17.0

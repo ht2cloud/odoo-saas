@@ -1,4 +1,7 @@
 .. image:: https://img.shields.io/badge/license-AGPL--3-blue.png
+
+**Migration Note**: This module is now compatible with Odoo 17.0. For upgrade guidance, see MIGRATION.md.
+
    :target: https://www.gnu.org/licenses/agpl
    :alt: License: AGPL-3
 

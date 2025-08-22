@@ -1,8 +1,10 @@
-[![Build Status](https://travis-ci.com/it-projects-llc/saas-addons.svg?branch=13.0)](https://travis-ci.com/it-projects-llc/saas-addons)
+[![Build Status](https://travis-ci.com/it-projects-llc/saas-addons.svg?branch=17.0)](https://travis-ci.com/it-projects-llc/saas-addons)
 
 # SaaS addons
 
 System to sale and manage odoo databases.
+
+**This repository is now compatible with Odoo 17.0. For upgrade guidance, see the individual module READMEs.**
 
 The repository contains modules for master instance (old name: *SaaS Portal*). Other resources of the project:
 
