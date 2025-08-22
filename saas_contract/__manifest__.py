@@ -7,7 +7,7 @@
     "category": "Sales",
     # "live_test_url": "http://apps.it-projects.info/shop/product/DEMO-URL?version=14.0",
     "images": [],
-    "version": "15.0.1.0.1",
+    "version": "17.0.1.0.0",
     "application": False,
 
     "author": "IT-Projects LLC, Eugene Molotov",
@@ -37,7 +37,7 @@
     "uninstall_hook": None,
 
     "auto_install": False,
-    "installable": False,
+    "installable": True,
 
     # "demo_title": "SaaS: Contracts",
     # "demo_addons": [
